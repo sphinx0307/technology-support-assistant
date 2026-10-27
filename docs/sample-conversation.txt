@@ -1,0 +1,30 @@
+PS D:\Sound\iit\Week15_assgmnt\Technology_Rag_asst> & C:/Users/ADMIN/AppData/Local/Programs/Python/Python310/python.exe d:/Sound/iit/Week15_assgmnt/Technology_Rag_asst/chatbot.py
+d:\Sound\iit\Week15_assgmnt\Technology_Rag_asst\chatbot.py:1: DeprecationWarning: `langchain-community` is being sunset and is no longer actively maintained. See https://github.com/langchain-ai/langchain-community/issues/674 for details and migration guidance toward standalone integration packages.
+  from langchain_community.vectorstores import FAISS
+
+Technology Support Assistant Ready
+Type 'exit' to quit
+
+You: What is Python?
+
+Bot: Python is a high-level, interpreted, general-purpose, and dynamically-typed programming language designed with an emphasis on code readability and simplicity. Created by Guido van Rossum and first released in 1991, its syntax allows developers to express concepts in fewer lines of code than languages like C++ or Java. This document provides a technical overview of Python's key features, advantages, disadvantages, and real-world industrial applications.
+
+You: Where is it used?
+
+Bot: Python is used in various domains such as web development, data analysis, artificial intelligence, machine learning, automation tasks, scientific computing, and educational programming. FastAPI, a modern high-performance open-source web framework for building APIs with Python, can be used for API development specifically. Git, on the other hand, is a version control system used to manage source code in software development projects.
+
+You: What is FastApi?
+
+Bot: FastAPI is a modern, high-performance open-source web framework used for building APIs with Python. It was created by Sebastián Ramírez and released in 2018. Based on standard Python-type hints, it is powered by Starlette and Pydantic, making it one of the fastest Python frameworks available.
+
+You: Does it suppory async operation?
+
+Bot: Yes, FastAPI supports asynchronous concurrency (async and await) for handling concurrent network requests.
+
+You: Who won Fifa worldcup 2022?
+
+Bot: I don't have enough information in the provided documents.
+
+You: Thank you
+
+Bot: You're welcome! If you have any more questions about Python, FastAPI, or API Documentation, feel free to ask.

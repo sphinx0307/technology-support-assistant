@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment files / secrets
+.env
+.env.*
+
+# Local caches and generated vector index
+.ipynb_checkpoints/
+.cache/
+faiss_index/
+gensim-data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
